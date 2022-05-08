@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  doctor: one
+  patient: one
+  kind: MyString
+  time: 2022-05-08 13:12:51
+
+two:
+  doctor: two
+  patient: two
+  kind: MyString
+  time: 2022-05-08 13:12:51
